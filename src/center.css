@@ -1,0 +1,11 @@
+.mapboxgl-ctrl-center {
+  width: 50px;
+  height: 50px;
+  top: calc(50% - 10px);
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: fixed;
+  z-index: 10000;
+  pointer-events: none;
+  background-image: url(center.svg)
+}

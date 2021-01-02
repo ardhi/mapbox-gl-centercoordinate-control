@@ -1,0 +1,26 @@
+{
+  "name": "mapbox-gl-centercoordinate-control",
+  "version": "0.0.1",
+  "description": "Mapbox GL - CenterCoordinate Control",
+  "main": "src/center.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/mapbox-gl-centercoordinate-control.git"
+  },
+  "keywords": [
+    "mapbox",
+    "gl",
+    "center",
+    "coordinate",
+    "control"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/mapbox-gl-centercoordinate-control/issues"
+  },
+  "homepage": "https://github.com/ardhi/mapbox-gl-centercoordinate-control#readme"
+}
