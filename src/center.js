@@ -1,6 +1,6 @@
 import './center.css'
 
-export default class CenterControl {
+export default class CenterCoordinateControl {
   insertControl () {
     this.container = document.createElement('div')
     this.container.classList.add('mapboxgl-ctrl')
